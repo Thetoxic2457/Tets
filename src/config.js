@@ -2,8 +2,8 @@ module.exports = {
     token: process.env.TOKEN || "",  // ⚠️ Mets ce token dans Railway
     clientID: process.env.CLIENT_ID || "1168170696493510826",  
     prefix: process.env.PREFIX || "&",  
-    ownerID: process.env.OWNER_ID || "870179991462236170",
-    guildID: process.env.GUILD_ID || "1239252627208802375",
+    ownerID: process.env.OWNER_ID || "1053399246805684265",
+    guildID: process.env.GUILD_ID || "1328162211084111942",
 
     // ✅ Sécurité : Ne mets PAS ces clés en dur ! Utilise les variables d’environnement
     SpotifyID: process.env.SPOTIFY_ID || "",
